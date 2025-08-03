@@ -37,6 +37,7 @@ The following models were trained and evaluated:
 - XGBoost
 - LightGBM
 - CatBoost
+- naive bayes
 
 Each model was evaluated using metrics like:
 - Accuracy
