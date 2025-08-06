@@ -58,7 +58,7 @@ Categorical variables like wind direction and `RainToday` are one-hot encoded.
 - **GRU (Gated Recurrent Unit)**
 
 > ✅ **Best Performance Achieved**  
-> Using LSTM, GRU, and LWP (with PCA and SMOTE), the model achieved:  
+> Using LSTM with PCA
 > - **Accuracy**: **95%**  
 > - **F1 Score**: **0.90**
 
