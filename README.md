@@ -32,8 +32,8 @@ Categorical variables like wind direction and `RainToday` are one-hot encoded.
 - **Categorical Encoding**: One-hot encoding on wind direction and rain indicators.
 - **Outlier Treatment**: IQR-based capping on numerical columns.
 - **Feature Scaling**: Normalization applied to numerical columns.
-- **Dimensionality Reduction**: PCA used to reduce feature space before deep learning.
 - **Class Imbalance**: SMOTE used to balance the binary target class.
+- **Dimensionality Reduction(rainfall_prediction_2)**: PCA used to reduce feature space before deep learning.
 
 ---
 
