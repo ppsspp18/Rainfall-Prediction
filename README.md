@@ -1,6 +1,6 @@
 # Rain Prediction Using Machine Learning
 
-This project aims to predict whether it will rain tomorrow using historical weather data. It involves data preprocessing, feature engineering, model training, and evaluation using both traditional machine learning models and deep learning techniques including **LSTM**, **GRU**, and **Learning with Prototypes (LWP)**.
+This project aims to predict whether it will rain tomorrow using historical weather data. It involves data preprocessing, feature engineering, model training, and evaluation using both traditional machine learning models and deep learning techniques including **LSTM** and **GRU****.
 
 ---
 
